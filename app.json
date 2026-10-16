@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "iphone-lab",
+    "name": "iPad Lab",
     "slug": "iphone-lab",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.demo.ipadlab20261016"
     },
     "android": {
       "adaptiveIcon": {
